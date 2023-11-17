@@ -4,7 +4,7 @@ import Dropdown from '../components/Dropdown';
 const Home = () => {
   return (
     <div>
-      <h1>Next.js Dropdown Example</h1>
+      <h1>Next.js Dropdown Example(select country)</h1>
       <Dropdown />
     </div>
   );
